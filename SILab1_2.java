@@ -2,13 +2,14 @@ import java.util.List;
 
 public class SILab1_2 {
 
-    private static String makeBigStringFrom (List<String> list, int minLength) {
-        StringBuilder sb = new StringBuilder();
-        for (String el : list) {
-            if (el.length() < minLength) {
-                sb.append(el);
+    public String makeBigStringFrom(List<String> strings, int minLength) {
+        StringBuilder result = new StringBuilder();
+        for (String s : strings) {
+            if (s.length() >= minLength) {
+                result.append(s);
             }
         }
-        return sb.toString();
+        return result.toString();
     }
+
 }
