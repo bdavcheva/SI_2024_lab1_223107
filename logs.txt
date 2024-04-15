@@ -1,0 +1,48 @@
+commit 7c3a402444223702077265affaa1c4c3f3a114c1
+Merge: e64d5fc bd8443b
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 17:08:22 2024 +0200
+
+    Resolve merge conflict in SILab1Main.java
+
+commit bd8443bd0f3b2084e5c927f418445e19e0502dab
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:50:33 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit e64d5fc1302e8a43d16bc94e7c8f27d512501fc6
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:45:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit aa0c675afd7237ff864a3d1e29b14266e4689eb4
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:36:54 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 5194948c805e41bb9d7ff838a7e61a82355f7c98
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:30:47 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 452fef87b8a573bb8576970e17dbeb327168a585
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:14:36 2024 +0200
+
+    Fix errors in SILab1_1 and SILab1_2
+
+commit d393c9f404fd6c44d6482c5da3bd21a0ceb55245
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 15:06:54 2024 +0200
+
+    Add starter code
+
+commit f393ee656d756e20a02edbd4ca42165c9fb239eb
+Author: bdavcheva <b.davcheva03@gmail.com>
+Date:   Mon Apr 15 14:40:55 2024 +0200
+
+    Inital  commit
