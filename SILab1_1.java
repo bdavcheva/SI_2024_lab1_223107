@@ -2,16 +2,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SILab1_1 {
-
+    
     public List<String> filterOddLengthStrings(List<String> strings) {
         List<String> result = new ArrayList<>();
         for (String s : strings) {
-            if (s.length() % 2 != 0) {
+            if (s.length() % 2 == 1) { 
                 result.add(s);
             }
         }
         return result;
     }
+
 
 
 }
